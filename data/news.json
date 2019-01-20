@@ -1,0 +1,144 @@
+{
+    "articles": [
+        {   
+            "id": 1,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Brett Samuels",
+            "title": "Pence quotes MLK in pitch for Trump's immigration proposal",
+            "description": "Vice President Pence on Sunday invoked Martin Luther King Jr.",
+            "url": "https://thehill.com/homenews/sunday-talk-shows/426234-pence-quotes-mlk-in-pitch-for-trumps-immigration-proposal",
+            "urlToImage": "https://thehill.com/sites/default/files/pencemike_082118am_lead.jpg",
+            "publishedAt": "2019-01-20T19:34:31+00:00",
+            "content": "Vice President Pence on Sunday invoked Martin Luther King Jr. in urging Congress to accept President Trump Donald John Trump Sunday shows preview: Shutdown negotiations continue after White House immigration proposal Rove warns Senate GOP: Don't put only focu… [+2553 chars]"
+        },
+        {
+            "id": 2,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Associated Press",
+            "title": "Paying for funerals impossible for many poor families",
+            "description": "Stories illustrate how the funeral homes now under scrutiny may have ended up having so many remains and why it is that families didn't notice.",
+            "url": "https://www.nbcnews.com/news/us-news/paying-funerals-impossible-many-poor-families-n960746",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2018_42/2606491/181016-detroit-funeral-home-mn-1245_610353ee09f62de1eac8327605c407ed.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2019-01-20T18:48:00+00:00",
+            "content": "Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Jan. 20, 2019, 6:48 PM GMT DETROIT Darlene Hardison would have loved to have a funeral for her father and uncle and bury… [+4746 chars]"
+        },
+        {
+            "id": 3,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Gregg Re",
+            "title": "BuzzFeed reporter, after rebuke by Mueller, unable to explain discrepancies",
+            "description": "BuzzFeed investigative reporter Anthony Cormier on Sunday declined to explain why his colleague Jason Leopold claimed to have seen documents proving that President Trump had ordered his former lawyer Michael Cohen to lie to Congress -- contradicting Cormier's…",
+            "url": "https://www.foxnews.com/politics/buzzfeed-reporter-after-rebuke-by-mueller-declines-to-explain-discrepancies-we-cant-get-into-like-the-details-there",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2017/12/30/694940094001_5696099832001_5696094074001-vs.jpg",
+            "publishedAt": "2019-01-20T17:51:38+00:00",
+            "content": "BuzzFeed News investigative reporter Anthony Cormier on Sunday declined to explain why his colleague Jason Leopold claimed to have seen documents proving that President Trump had ordered his former lawyer Michael Cohen to lie to Congress -- contradicting Corm… [+6807 chars]"
+        },
+        {
+            "id": 4,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Leigh Morgan",
+            "title": "Wetumpka tornado may have been a high-end EF2, NWS says",
+            "description": "NWS gives storm a preliminary rating but cautioned that the damage survey wasn't over yet.",
+            "url": "https://www.al.com/news/index.ssf/2019/01/wetumpka_tornado_may_have_been.html",
+            "urlToImage": "https://image.al.com/home/bama-media/width620/img/news_impact/photo/25087545-standard.jpg",
+            "publishedAt": "2019-01-20T17:49:00+00:00",
+            "content": "It was definitely a tornado that hit Wetumpka on Saturday, and early indications are it was a high-end EF2, according to the National Weather Service. The weather service cautioned that the storm survey -- one of several planned today -- was still ongoing, bu… [+1027 chars]"
+        },
+        {
+            "id": 5,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Barbara Goldberg",
+            "title": "Bitter cold cancels some U.S. lunar eclipse festivities",
+            "description": "Many lunar eclipse festivities were canceled due to a flash freeze across the central and northeastern U.S. states on Sunday, with icy roadways rather than cloudy skies blamed by astronomers for spoiling the party.",
+            "url": "https://www.reuters.com/article/us-usa-weather-idUSKCN1PE0QE",
+            "urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20190120&t=2&i=1347894152&w=1200&r=LYNXNPEF0J130",
+            "publishedAt": "2019-01-20T17:18:00+00:00",
+            "content": "NEW YORK/LOS ANGELES (Reuters) - Many lunar eclipse festivities were canceled due to a flash freeze across the central and northeastern U.S. states on Sunday, with icy roadways rather than cloudy skies blamed by astronomers for spoiling the party. Star gazers… [+2232 chars]"
+        },
+        {
+            "id": 6,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Eli Watkins, CNN",
+            "title": "Democrats reiterate demand: Reopen the government before negotiations on border security",
+            "description": "A day after President Donald Trump offered his plan to end the shutdown and fund a border wall in exchange for temporary protections for groups of immigrants, Democrats stood by their demand to reopen the government before negotiating about the border.",
+            "url": "https://www.cnn.com/2019/01/20/politics/democrats-shutdown/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/121231065730-capitol-hill-super-tease.jpg",
+            "publishedAt": "2019-01-20T16:50:00+00:00",
+            "content": "No, Amnesty is not a part of my offer. It is a 3 year extension of DACA. Amnesty will be used only on a much bigger deal, whether on immigration or something else. Likewise there will be no big push to remove the 11,000,000 plus people who are here illegally-… [+74 chars]"
+        },
+        {
+            "id": 7,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Al Jazeera",
+            "title": "Thousands protest in Athens against Macedonia name change",
+            "description": "Greece's agreement with Macedonia has angered Greek nationalists, who view Macedonia as an integral part of Greece.",
+            "url": "https://www.aljazeera.com/news/2019/01/thousands-protests-athens-macedonia-change-190120133516993.html",
+            "urlToImage": "https://www.aljazeera.com/mritems/Images/2019/1/20/4b73812f2ce4438fa0dcdf85ac7bf427_18.jpg",
+            "publishedAt": "2019-01-20T15:41:00+00:00",
+            "content": "Thousands of protesters have gathered in Syntagma Square in Athens to demonstrate against Greece 's agreement with Macedonia to change the latter's name to Republic of North Macedonia. Hundreds of buses, especially from northern Greece, brought protesters in … [+2219 chars]"
+        },
+        {
+            "id": 8,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Alex Seitz-Wald",
+            "title": "Democrats 'like' it: The secret to Ocasio-Cortez's social media success",
+            "description": "Just weeks after arriving, Rep. Alexandria Ocasio-Cortez, D-N.Y., already has more Twitter followers than Nancy Pelosi and more interactions than Barack Obama.",
+            "url": "https://www.nbcnews.com/politics/2020-election/democrats-it-secret-ocasio-cortez-s-social-media-success-n960561",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2019_01/2702931/190103-congress-ocasio-cortez-kuster-leee-mn-1235_da26262f34346a4b81cb9055817517fb.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2019-01-20T12:39:00+00:00",
+            "content": "Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Jan. 20, 2019, 12:39 PM GMT WASHINGTON Less than three weeks after being sworn in as the youngest woman ever elected to … [+8847 chars]"
+        },
+        {
+            "id": 9,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Ray Sanchez, CNN",
+            "title": "The Jayme Closs case: A chilling tale of murder, kidnapping and escape in rural America",
+            "description": "Jake Patterson lasted only two days as a temp at the Saputo cheese factory in Almena, Wisconsin, a largely forgettable stint but for a brief stop behind a school bus while driving to work on a desolate stretch of US Highway 8.",
+            "url": "https://www.cnn.com/2019/01/19/us/jayme-closs-case-moment-by-moment/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181016130437-02-ayme-closs-missing-wisconsin-super-tease.jpg",
+            "publishedAt": "2019-01-20T06:46:00+00:00",
+            "content": "This account of events leading up to the fatal shooting of Jayme Closs' parents, her kidnapping and its aftermath is based on official statements, the criminal complaint, other court documents, interviews with residents and other reporting from CNN and its ne… [+11933 chars]"
+        },
+        {
+            "id": 10,
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "William Laws",
+            "title": "Mexico fuel pipeline blast kills 71, witnesses describe horror",
+            "description": "At least 71 people were killed after a pipeline ruptured by suspected fuel thieves exploded in central Mexico, authorities said on Saturday.",
+            "url": "https://www.aol.com/article/news/2019/01/19/mexico-fuel-pipeline-blast-kills-71-witnesses-describe-horror/23647380/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/3996x2622+0+47/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F0d1f10b0-1c4d-11e9-bfff-c594f711c2b8",
+            "publishedAt": "2019-01-20T00:48:31+00:00",
+            "content": "TLAHUELILPAN, Mexico, Jan 19 (Reuters) - At least 71 people were killed after a pipeline ruptured by suspected fuel thieves exploded in central Mexico, authorities said on Saturday, as President Andres Manuel Lopez Obrador defended the army despite its failur… [+9239 chars]"
+        }
+    ]
+}
